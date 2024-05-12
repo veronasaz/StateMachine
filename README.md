@@ -14,7 +14,7 @@ There are also three random events ('a small deseaese', 'an invitation for coffe
 For example: now we are working/studying (from 9am to 2pm), but a friend came, so we should get ready and go rest for an hour with a friend.
 
 Here is a diagram of the transition between states:
-![alt text](diagram.png)
+![alt text](diagram-1.png)
 
 And here are the example of a possible day:
 
